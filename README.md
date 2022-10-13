@@ -15,6 +15,6 @@ allprojects {
   
   ```gradle
  	dependencies {
-	        implementation 'com.github.taimoorbutt1:ImagePicker:Tag'
+	        implementation 'com.github.taimoorbutt1:ImagePicker:1.0'
 	}
   ```
