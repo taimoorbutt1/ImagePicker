@@ -14,7 +14,7 @@ allprojects {
   > Step 2. Add the dependency
   
   ```gradle
-  dependencies {
-	        implementation 'com.github.redclifftech:imagePicker:1.0'
+ 	dependencies {
+	        implementation 'com.github.taimoorbutt1:ImagePicker:Tag'
 	}
   ```
