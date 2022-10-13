@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/taimoorbutt1/imageResizer.svg)](https://jitpack.io/#taimoorbutt1/imageResizer)
+
 > Step 1. Add the JitPack repository to your build file
 
 ```gradle
